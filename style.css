@@ -1,11 +1,33 @@
 Body {
     background-color: #f9c667;
     max-width: 90%;
+    margin: auto;
+    background-image: url("https://www.xmple.com/wallpaper/gradient-white-orange-linear-1920x1080-c2-ffffff-ff8c00-a-195-f-14.svg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+  }
+
+blockquote {
+  max-width: 50%;
+  margin: auto;
+  font-size: 160%;
+  background-color: #EADEFE;
+  border-left: 3px;
+  border-style: solid;
+  border-color: firebrick;
+  padding-left: 30px;
+  padding-top: 80px; 
+  padding-bottom: 80px;
 }
 
 p {
     font-family: 'Roboto Slab', serif;
     color: #1C1C1C;
+}
+
+q { 
+  font-style: italic;
 }
 
 ul {
