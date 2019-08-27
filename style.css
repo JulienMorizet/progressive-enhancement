@@ -21,6 +21,12 @@ blockquote {
   padding-bottom: 80px;
 }
 
+
+
+.li1 {
+font-weight: bold;
+}
+
 .good {
   text-transform: capitalize;
   color: green;
@@ -45,10 +51,16 @@ ul {
     color: #1C1C1C;
 }
 
-table {
+table, th, td {
     font-family: 'Roboto Slab', serif;
     color: #1C1C1C;
+    border:  1px solid black;
+   
 }
+
+tr:nth-child(even) {background-color: grey;}
+tr:nth-child(odd) {background-color: white;}
+
 
 a {
     font-family: 'Roboto Slab', serif;
