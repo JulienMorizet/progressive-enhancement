@@ -23,9 +23,11 @@ blockquote {
 
 
 
-.li1 {
+.li_good {
 font-weight: bold;
 }
+
+
 
 .good {
   text-transform: capitalize;
