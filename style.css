@@ -44,7 +44,6 @@ font-weight: bold;
 
 
 
-
 .good {
   text-transform: capitalize;
   color: green;
@@ -93,6 +92,17 @@ a {
 
   a:visited {
     color: purple;
+  }
+
+  .notification{
+    background:#FFFFDD;
+    padding:.5rem 3rem;
+    border:3px solid #DDDDCC;
+    margin-top: 2rem;
+    width:250px;
+    font-weight:bold;
+    color: #333300;
+    position: bottom right;
   }
   
   
