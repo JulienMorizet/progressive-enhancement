@@ -27,7 +27,39 @@ blockquote {
 font-weight: bold;
 }
 
+.bien {
+  float: right;
+  padding-right: 800px; 
+}
 
+.mal {
+  float: right; 
+  padding-right: 800px;
+}
+
+.chat {
+  float: right; 
+  padding-right: 800px;
+}
+
+
+
+.img1 {
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 100px;
+}
+
+.figcaption1 {
+  float: inline-start;
+}
+
+.float2 {
+  float: right;
+  width: 30%;
+  margin: 20px;
+}
 
 .good {
   text-transform: capitalize;
