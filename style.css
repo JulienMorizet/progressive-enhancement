@@ -8,6 +8,10 @@ Body {
     background-size: cover;
   }
 
+  header:nth-child(1) {
+    background-color:yellow;
+  }
+
 blockquote {
   max-width: 50%;
   margin: auto;
