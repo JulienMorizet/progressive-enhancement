@@ -31,22 +31,6 @@ blockquote {
 font-weight: bold;
 }
 
-.bien {
-  float: right;
-  padding-right: 800px; 
-}
-
-.mal {
-  float: right; 
-  padding-right: 800px;
-}
-
-.chat {
-  float: right; 
-  padding-right: 800px;
-}
-
-
 
 .good {
   text-transform: capitalize;
@@ -103,10 +87,13 @@ a {
     padding:.5rem 3rem;
     border:3px solid #DDDDCC;
     margin-top: 2rem;
+    margin-bottom: 1rem;
     width:250px;
     font-weight:bold;
     color: #333300;
-    position: bottom right;
+    position: fixed;
+    bottom: 0; 
+    right: 0;
   }
   
   
