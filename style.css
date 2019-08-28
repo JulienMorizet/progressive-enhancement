@@ -44,22 +44,6 @@ font-weight: bold;
 
 
 
-.img1 {
-  height: 25%;
-  width: 25%;
-  float: left;
-  margin-right: 100px;
-}
-
-.figcaption1 {
-  float: inline-start;
-}
-
-.float2 {
-  float: right;
-  width: 30%;
-  margin: 20px;
-}
 
 .good {
   text-transform: capitalize;
